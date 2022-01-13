@@ -1,3 +1,4 @@
+#21103010 CSE Gurnoor Singh 
 #Q1
 a=input("Enter first number: ")
 b=input("Enter second number: ")
